@@ -1,0 +1,119 @@
+10
+
+dir
+0
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn/rpc/TFG/Maria/src/gui_pc
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4731269-0615-4367-af5c-ee50864cfdb9
+
+mainwindow.h
+file
+
+
+
+add
+
+robotcontrolwindow.h
+file
+
+
+
+add
+
+RobotColony.pro.user
+file
+
+
+
+add
+
+main.cpp
+file
+
+
+
+add
+
+Images
+dir
+
+
+
+add
+
+mainwindow.ui
+file
+
+
+
+add
+
+RobotColony.pro
+file
+
+
+
+add
+
+robotcontrolwindow.ui
+file
+
+
+
+add
+
+README.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+mainwindow.cpp
+file
+
+
+
+add
+
+Resources.qrc
+file
+
+
+
+add
+
+robotcontrolwindow.cpp
+file
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn/rpc/TFG/Maria/src/gui_android
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4731269-0615-4367-af5c-ee50864cfdb9
+
+project.properties
+file
+
+
+
+add
+
+assets
+dir
+
+
+
+add
+
+RobotColony.apk
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+proguard-project.txt
+file
+
+
+
+add
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+gen
+dir
+
+
+
+add
+
+libs
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+
+ic_launcher-web.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

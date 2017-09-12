@@ -1,0 +1,105 @@
+10
+
+dir
+0
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn/rpc/TFG/Maria/src/gui_android/res
+svn+ssh://raules@svn.code.sf.net/p/asrob/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4731269-0615-4367-af5c-ee50864cfdb9
+
+drawable-ldpi
+dir
+
+
+
+add
+
+values-v14
+dir
+
+
+
+add
+
+drawable-mdpi
+dir
+
+
+
+add
+
+drawable-xhdpi
+dir
+
+
+
+add
+
+layout
+dir
+
+
+
+add
+
+values
+dir
+
+
+
+add
+
+values-w820dp
+dir
+
+
+
+add
+
+drawable-xxhdpi
+dir
+
+
+
+add
+
+drawable-hdpi
+dir
+
+
+
+add
+
+values-v11
+dir
+
+
+
+add
+
+menu
+dir
+
+
+
+add
+
